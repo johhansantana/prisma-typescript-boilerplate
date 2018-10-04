@@ -17,6 +17,6 @@
 yarn __SCRIPT__
 ```
 Replace `__SCRIPT__` with following scripts:
-**start** - run prisma client app
-**dev** - run both prisma client app and prisma server in one playground
-**playground** - run prisma server playground
+* **start** - run prisma client app
+* **dev** - run both prisma client app and prisma server in one playground
+* **playground** - run prisma server playground
